@@ -6,4 +6,11 @@
     For more context, access [blog post]</string>
     <string name="action_settings">Settings</string>
 
+    <string name="header_general">General</string>
+    <string name="header_advanced">Advanced</string>
+
+    <string name="extra_category">category</string>
+    <string name="category_general">category_general</string>
+    <string name="category_advanced">category_advanced</string>
+
 </resources>
