@@ -2,7 +2,8 @@
 <resources>
 
     <string name="app_name">Preferences Compat</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">This is an example on how to use PreferenceActivity with ActionBar under AppCompat.
+    For more context, access [blog post]</string>
     <string name="action_settings">Settings</string>
 
 </resources>
