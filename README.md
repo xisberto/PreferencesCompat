@@ -5,6 +5,8 @@ Example on how to make Android PreferenceActivity compatible with old platform v
 
 This code is published as an example for a post on my blog, and is published under the Apache License.
 
+The blog post is in this address: http://xisberto.wordpress.com/2014/11/08/how-to-combine-actionbar-and-preferenceactivity-headers-with-appcompat/
+
 License
 =======
 
